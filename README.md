@@ -1,3 +1,5 @@
+<h3 style="color:red;">This repo will no longer be maintained. If you wish to use it, you do so with the understanding that security is not guaranteed and that no support will be provided.</h3>
+
 <h1 align="center">Welcome to Whether ☔⛈⛈️️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
